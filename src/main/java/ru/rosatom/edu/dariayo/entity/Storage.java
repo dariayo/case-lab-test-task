@@ -1,4 +1,5 @@
 package ru.rosatom.edu.dariayo.entity;
+
 import java.util.Date;
 
 import jakarta.persistence.*;
@@ -22,8 +23,8 @@ public class Storage {
     private byte[] file;
     @Column(name = "title")
     private String title;
-    @Column(name = "creation_date")
-    private Date creation_date;
+    @Column(name = "creationDate")
+    private Date creationDate;
     @Column(name = "description")
     private String description;
 }

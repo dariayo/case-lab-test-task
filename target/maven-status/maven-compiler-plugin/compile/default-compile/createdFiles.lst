@@ -1,0 +1,5 @@
+ru/rosatom/edu/dariayo/entity/Storage.class
+ru/rosatom/edu/dariayo/Main.class
+ru/rosatom/edu/dariayo/service/StorageService.class
+ru/rosatom/edu/dariayo/controller/StorageController.class
+ru/rosatom/edu/dariayo/repository/StorageRepository.class
